@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Spencer Gamero's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Spencer Gamero
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="spencer.gamero23@gmail.com">spencer.gamero23@gmail.com</a>
+| <a href="www.linkedin.com/in/spencer-gamero/">My linkedin</a>
+<!-- | <a href="https://spencergamero23.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
+| <a href="https://spencergamero23.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a>
 </div>
 
 
